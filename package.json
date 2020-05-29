@@ -1,0 +1,28 @@
+{
+  "name": "lesson-5",
+  "version": "1.0.0",
+  "description": "Hello world",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AksimO/lesson-5.git"
+  },
+  "keywords": [
+    "nope"
+  ],
+  "author": "Maksim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AksimO/lesson-5/issues"
+  },
+  "homepage": "https://github.com/AksimO/lesson-5#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
